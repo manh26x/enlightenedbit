@@ -56,6 +56,7 @@
 	<div id="cc_spacer"></div><!-- used to clear fixed navigation by the themes js -->  
 	<div class="site-header">
 		<div class="site-branding">
+		    <h1>Test PHP change theme</h1>
 			<a class="home-link" href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 				<h1 class="site-title"><?php bloginfo( 'name' ); ?></h1>
 				<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
